@@ -13,9 +13,9 @@ main:
   - name: Working Experience
     url: '#working_experience'
     weight: 3
-  #- name: Publications
-  #  url: '#publications'
-  #  weight: 4
+  - name: Publications
+    url: '#publications'
+    weight: 4
   - name: Contact
     url: '#contact'
     weight: 4
