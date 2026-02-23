@@ -14,7 +14,7 @@ status:
   icon: "☕️"
 role: PostDoc Researcher
 bio: |
-  I’m a PostDoc researcher at the University of Rome Tor Vergata. Previously Ph.D. student in a international joint program between Ecoles des Ponts ParisTech and Università di Roma Tor Vergata. 
+  I’m a PostDoc researcher at the University of Rome Tor Vergata. Previously Ph.D. student in a international joint program between École nationale des ponts et chaussées and Università di Roma Tor Vergata. 
 
 affiliations:
   - name: University of Rome Tor Vergata
@@ -32,16 +32,15 @@ links:
     url: https://orcid.org/0009-0009-1296-9891
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Volatility Modelling
+  - Discretizations of Stochastic Processes
+  - High Performance computing
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: Ph.D. Applied Mathematics
+    institution: École nationale des ponts et chaussées - Università degli Studi di Roma Tor Vergata
+    start: 2020-11-01
+    end: 2025-01-22
     summary: |
       Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
     button:
