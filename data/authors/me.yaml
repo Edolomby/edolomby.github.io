@@ -12,7 +12,7 @@ postnominals:
   - "PhD"
 status:
   icon: ":chart_with_upwards_trend:" # ":computer:"
-role: "Quantitative Researcher"
+role: "Quantitative Researcher, Ph.D."
 bio: "I’m a PostDoc researcher at the University of Rome Tor Vergata. Previously Ph.D. student in a international joint program between École nationale des ponts et chaussées and University of Rome Tor Vergata. My research focuses on stochastic control, high-order approximation schemes, and numerical methods for PDEs. I am passionate about leveraging C++, Python, and High-Performance Computing to develop efficient pricing models and risk assessment tools for financial markets."
 affiliations:
   - name: "University of Rome Tor Vergata"
