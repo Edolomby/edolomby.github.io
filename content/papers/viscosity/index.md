@@ -31,11 +31,6 @@ hugoblox:
     arxiv: 2504.19859
 
 links:
-- type: preprint
-  provider: arxiv
-  id: 1512.04133v1
-- type: code
-  url: ''#https://github.com/HugoBlox/kit
 - type: code
   url: "" #https://github.com/Edolomby/MyQuantLib
 - type: project
