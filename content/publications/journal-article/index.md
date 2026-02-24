@@ -1,12 +1,12 @@
 ---
-title: "An example journal article"
+title: "High Order Approximations and Simulation Schemes for the Log-Heston Process"
 authors:
 - me
-- Robert Ford
+- Aurélien Alfonsi
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2025-01-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -17,27 +17,26 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "Siam Journal on Financial Mathematics"
+publication_short: "SIFIN"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: We present weak approximations schemes of any order for the Heston model that are obtained by using the method developed by Alfonsi and Bally (2021). This method consists in combining approximation schemes calculated on different random grids to increase the order of convergence. We apply this method with either the Ninomiya–Victoir scheme (2008) or a second order scheme that samples exactly the volatility component, and we show rigorously that we can achieve then any order of convergence. We give numerical illustrations on financial examples that validate the theoretical order of convergence. We also present promising numerical results for the multifactor/rough Heston model and hint at applications to other models, including the Bates model and the double Heston model.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+summary: Developed High order schemes for Heston and ASVJ extensions of Heston Model, proved theoremes of rate of convergence for the scheme and the random grids bosted approximations.
 tags:
 - Source Themes
 featured: false
 
 hugoblox:
   ids:
-    arxiv: 1512.04133v1
+    arxiv: 2407.17151
 
 links:
   - type: pdf
-    url: http://arxiv.org/pdf/1512.04133v1
+    url: https://epubs.siam.org/journal/sjfmbj
   - type: code
-    url: https://github.com/HugoBlox/kit
+    url: "" #https://github.com/Edolomby/MyQuantLib
   - type: dataset
     url: ""
   - type: poster
