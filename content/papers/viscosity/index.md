@@ -22,7 +22,7 @@ abstract: We present here some results for the PDE related to the logHeston mode
 summary: 
 
 tags:
-- Large Language Models
+- Viscosity Solutions 
 
 featured: true
 
