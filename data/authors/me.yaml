@@ -42,7 +42,7 @@ education:
     summary: "Thesis on affine stochastic volatility models approximation. Published 2 papers in IMAJNA and SIFIN., 1 ArXiv preprint.\n"
     button:
       text: "Download dissertation"
-      url: "/TH2025_ENPC_LOMBARDO.pdf"
+      url: "/static/uploads/TH2025_ENPC_LOMBARDO.pdf"
       icon: "hero/arrow-down-tray"
   - degree: "M.Sc. Mathematics for Finance and Data"
     institution: "École nationale des ponts et chaussées"
