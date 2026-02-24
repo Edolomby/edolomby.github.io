@@ -37,14 +37,14 @@ sections:
       avatar:
         size: large # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-  - block: collection
-    content:
-      title: 'Publications'
-      text: ''
-      filters:
-        folders:
-          - publications
-        exclude_featured: false
-    design:
-      view: citation
+  #- block: collection
+  #  content:
+  #    title: 'Publications'
+  #    text: ''
+  #    filters:
+  #      folders:
+  #        - publications
+  #      exclude_featured: false
+  #  design:
+  #    view: citation
 ---
