@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'High order approximations of the Cox–Ingersoll–Ross process semigroup using random grids'
 
 # Authors
 # If you created a profile for a user (e.g. the default `me` user), write the username (folder name) here
@@ -7,8 +7,6 @@ title: 'An example conference paper'
 authors:
   - me
   - Aurélien Alfonsi
-
-# Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
