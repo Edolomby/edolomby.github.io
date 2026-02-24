@@ -13,7 +13,7 @@ postnominals:
 status:
   icon: ":chart_with_upwards_trend:" # ":computer:"
 role: "Quantitative Researcher"
-bio: "I’m a PostDoc researcher at the University of Rome Tor Vergata. Previously Ph.D. student in a international joint program between École nationale des ponts et chaussées and Università di Roma Tor Vergata. My research focuses on stochastic control, high-order approximation schemes, and numerical methods for PDEs. I am passionate about leveraging C++, Python, and High-Performance Computing to develop efficient pricing models and risk assessment tools for financial markets."
+bio: "I’m a PostDoc researcher at the University of Rome Tor Vergata. Previously Ph.D. student in a international joint program between École nationale des ponts et chaussées and University of Rome Tor Vergata. My research focuses on stochastic control, high-order approximation schemes, and numerical methods for PDEs. I am passionate about leveraging C++, Python, and High-Performance Computing to develop efficient pricing models and risk assessment tools for financial markets."
 affiliations:
   - name: "University of Rome Tor Vergata"
     url: null
@@ -41,14 +41,14 @@ education:
       text: "Download dissertation"
       url: "/resume.pdf"
       icon: "hero/arrow-down-tray"
-  - degree: "MS Computer Science"
-    institution: "Carnegie Mellon University"
-    start: "2013-09-01"
-    end: "2015-05-31"
-  - degree: "BS Computer Science"
-    institution: "MIT"
-    start: "2009-09-01"
-    end: "2013-05-31"
+  - degree: "M.Sc. Mathematics for Finance and Data"
+    institution: "École nationale des ponts et chaussées"
+    start: "2018-09-18"
+    end: "2019-09-17"
+  - degree: "M.Sc. in Pure and Applied Mathematics"
+    institution: "University of Rome Tor Vergata"
+    start: "2015-10-01"
+    end: "2018-07-25"
 experience:
   - role: "Senior AI Research Scientist"
     org: "Meta AI"
@@ -82,11 +82,14 @@ skills:
         level: 4
 languages:
   - name: "English"
-    level: 5
-    label: "Native"
-  - name: "Spanish"
     level: 4
     label: "Fluent"
+  - name: "French"
+    level: 4
+    label: "Fluent"
+  - name: "Italian"
+    level: 5
+    label: "Native"
 awards:
   - title: "Best Paper Award"
     awarder: "NeurIPS"
