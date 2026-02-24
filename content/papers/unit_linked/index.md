@@ -28,7 +28,7 @@ publication_types: ['article']
 # Publication name and optional abbreviated publication name.
 publication: ""
 publication_short: ""
-abstract: We study the problem of designing and hedging unit linked life insurance policies whose benefits depend on an investment fund that incorporates environmental criteria in its selection process. Offering these products poses two key challenges: constructing a green investment fund and developing a hedging strategy for policies written on that fund. We address these two problems separately. First, we design a portfolio selection rule driven by firms’ carbon intensity that endogenously selects assets and avoids ad hoc pre-screens based on ESG scores.
+abstract:  The effectiveness of our new portfolio selection method is tested using real market data. Second, we adopt the perspective of an insurance company issuing unit linked policies written on this fund. Such contracts are exposed to market, carbon, and mortality risk, which the insurance company seeks to hedge. Due to market incompleteness, we address the hedging problem via a quadratic approach aimed at minimizing the tracking error. We also make a numerical analysis to assess the performance of the hedging strategy. For our simulation study, we use an efficient weak second-order scheme that allows for variance reduction.
 # Summary. An optional shortened abstract.
 summary: 
 
