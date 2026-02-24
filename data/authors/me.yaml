@@ -23,10 +23,13 @@ links:
     label: "E-mail Me"
   - icon: "brands/github"
     url: "https://github.com/Edolomby"
+    label: "Edolomby"
   - icon: "brands/linkedin"
     url: "https://www.linkedin.com/in/lombardoedoardo/"
+    label: "LinkedIn"
   - icon: "academicons/orcid"
     url: "https://orcid.org/0009-0009-1296-9891"
+    label: "Orcid"
 interests:
   - "Volatility Modelling"
   - "Discretizations of Stochastic Processes"
