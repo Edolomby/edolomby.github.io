@@ -37,17 +37,7 @@ links:
     url: https://epubs.siam.org/journal/sjfmbj
   - type: code
     url: "" #https://github.com/Edolomby/MyQuantLib
-  - type: dataset
-    url: ""
-  - type: poster
-    url: ""
   - type: project
-    url: ""
-  - type: slides
-    url: https://www.slideshare.net/
-  - type: source
-    url: ""
-  - type: video
     url: ""
 
 # Featured image
