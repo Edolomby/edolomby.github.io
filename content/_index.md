@@ -18,7 +18,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/Edoardo_Lombardo_CV.pdf
       headings:
         about: ''
         education: ''
