@@ -39,10 +39,10 @@ education:
     institution: "École nationale des ponts et chaussées - Università degli Studi di Roma Tor Vergata"
     start: "2020-11-01"
     end: "2025-01-22"
-    summary: "Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.\n"
+    summary: "Thesis on affine stochastic volatility models approximation. Published 2 papers in IMAJNA and SIFIN., 1 ArXiv preprint.\n"
     button:
       text: "Download dissertation"
-      url: "/resume.pdf"
+      url: "/TH2025_ENPC_LOMBARDO.pdf"
       icon: "hero/arrow-down-tray"
   - degree: "M.Sc. Mathematics for Finance and Data"
     institution: "École nationale des ponts et chaussées"
