@@ -59,15 +59,6 @@ sections:
         exclude_featured: false
     design:
       view: citation
- # - block: collection
- #   id: talks
- #   content:
- #     title: Recent & Upcoming Talks
- #     filters:
- #       folders:
- #         - events
- #   design:
- #     view: card
   - block: cta-card
     demo: false # Only display this section in the HugoBlox Kit demo site
     content:
