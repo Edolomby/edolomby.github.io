@@ -30,7 +30,6 @@ publication: ""
 publication_short: ""
 
 abstract: We study the problem of designing and hedging unit linked life insurance policies whose benefits depend on an investment fund that incorporates environmental criteria in its selection process. Offering these products poses two key challenges: constructing a green investment fund and developing a hedging strategy for policies written on that fund. We address these two problems separately. First, we design a portfolio selection rule driven by firms’ carbon intensity that endogenously selects assets and avoids ad hoc pre-screens based on ESG scores.
-
 # Summary. An optional shortened abstract.
 summary: 
 
