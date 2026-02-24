@@ -1,4 +1,4 @@
-# [The Academic CV That Gets You Hired](https://github.com/HugoBlox/hugo-theme-academic-cv)
+# [The Academic CV](https://github.com/HugoBlox/hugo-theme-academic-cv)
 
 <h1 align="center">The Portfolio That Works While You Sleep</h1>
 
