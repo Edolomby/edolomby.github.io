@@ -40,7 +40,7 @@ hugoblox:
 
 links:
   - type: pdf
-    url: [https://epubs.siam.org/journal/sjfmbj](https://academic.oup.com/imajna/article-abstract/44/4/2277/7246577)
+    url: https://academic.oup.com/imajna/article-abstract/44/4/2277/7246577
   - type: code
     url: ""
   - type: project
