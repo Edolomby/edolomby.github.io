@@ -34,7 +34,7 @@ hugoblox:
 
 links:
   - type: pdf
-    url: https://epubs.siam.org/journal/sjfmbj
+    url: https://epubs.siam.org/doi/abs/10.1137/24M1679720?af=R
   - type: code
     url: "" #https://github.com/Edolomby/MyQuantLib
   - type: project
