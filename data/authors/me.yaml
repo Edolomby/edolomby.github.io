@@ -13,7 +13,7 @@ postnominals:
 status:
   icon: ":chart_with_upwards_trend:" # ":computer:"
 role: "Quantitative Researcher, Ph.D."
-bio: "I’m a PostDoc researcher at the University of Rome Tor Vergata. Previously Ph.D. student in a international joint program between École nationale des ponts et chaussées and University of Rome Tor Vergata. My research focuses on stochastic control, high-order approximation schemes, and numerical methods for PDEs. I am passionate about leveraging C++, Python, and High-Performance Computing to develop efficient pricing models and risk assessment tools for financial markets."
+bio: "I am a Quantitative Researcher and Applied Mathematician with a Ph.D. from École des Ponts ParisTech and University of Roma Tor Vergata. My expertise lies at the intersection of stochastic calculus, high-performance computing, and numerical methods. I specialize in modeling complex stochastic dynamics and building high-performance numerical solutions in C++ and Python, transforming advanced mathematical theory into fast, accurate pricing and risk infrastructure. With prior industry experience as a Quantitative Analyst at Enel and Risk Analyst at AXA, I am passionate about applying advanced mathematical techniques, Monte Carlo simulations, and data-driven methods to solve complex pricing, risk, and alpha-generation problems in financial markets."
 affiliations:
   - name: "University of Rome Tor Vergata"
     url: null
