@@ -67,7 +67,7 @@ experience:
     end: "2020-10-31"
     summary: "Implemented pricing models for vanilla and complex commodity derivatives using MATLAB. Engineered analytical tools for risk assessment, allowing the Front Office to value optionality premiums. Maintained and optimized the proprietary pricing library, ensuring stability.\n"
   - role: "Risk Analyst Intern"
-    org: "Enel Global Trading"
+    org: "AXA (Group Risk Management)"
     start: "2019-05-01"
     end: "2019-10-31"
     summary: "Developed an ALM (Asset Liability Management) model (in Python) to forecast profitability of new retirement contracts. Quantified sensitivity to interest rates and longevity risk, directly impacting Solvency Capital Requirement (SCR) strategy.\n"
