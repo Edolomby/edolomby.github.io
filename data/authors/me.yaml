@@ -74,17 +74,17 @@ experience:
     start: "2019-05-01"
     end: "2019-10-31"
     summary: "Developed an ALM (Asset Liability Management) model (in Python) to forecast profitability of new retirement contracts. Quantified sensitivity to interest rates and longevity risk, directly impacting Solvency Capital Requirement (SCR) strategy.\n"
-skills:
-  - name: "Technical Skills"
-    items:
-      - label: "C++"
-        level: 5
-      - label: "Python"
-        level: 4
-      - label: "C"
-        level: 4
-      - label: "MATLAB"
-        level: 4
+#skills:
+#  - name: "Technical Skills"
+#    items:
+#      - label: "C++"
+#        level: 5
+#      - label: "Python"
+#        level: 4
+#      - label: "C"
+#        level: 4
+#      - label: "MATLAB"
+#        level: 4
   #- name: "Research & Communication"
   #  items:
   #    - label: "Academic Writing"
