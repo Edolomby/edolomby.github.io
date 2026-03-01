@@ -19,6 +19,9 @@ sections:
       button:
         text: Download CV
         url: uploads/Edoardo_Lombardo_CV.pdf
+      button:
+        text: Selected Projects
+        url: projects/
       headings:
         about: ''
         education: ''
